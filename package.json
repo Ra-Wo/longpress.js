@@ -1,6 +1,6 @@
 {
   "name": "@rachidoudouch/longpress",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "longPress",
   "main": "index.js",
   "keywords": ["long-press", "long-press-event", "press", "touch", "event"],

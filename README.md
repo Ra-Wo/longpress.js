@@ -1,7 +1,5 @@
 # longPress.js
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-
 An easy way to handle long press!
 ## Installation
 
