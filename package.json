@@ -1,0 +1,20 @@
+{
+  "name": "@rachidoudouch/longpress",
+  "version": "1.0.1",
+  "description": "longPress",
+  "main": "index.js",
+  "keywords": ["long-press", "long-press-event", "press", "touch", "event"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ra-Wo/longPress.js.git"
+  },
+  "author": "rachid oudouch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ra-Wo/longPress.js/issues"
+  },
+  "homepage": "https://github.com/Ra-Wo/longPress.js#readme"
+}
