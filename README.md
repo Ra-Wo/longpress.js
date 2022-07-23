@@ -1,4 +1,4 @@
-# longPress.js
+# longpress.js
 
 An easy way to handle long press!
 ## Installation
